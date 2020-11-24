@@ -10,6 +10,4 @@ The nerual network is composed of 1 hidden layer. It is possible to adjust numbe
 
 It is possible to change nonliear function which network is estimated. In the file `EstimatedFunction.c` you can uncomment one of multiple options or you can create your own nonlinear function. The current nonlinear function is:
 
-<img src="https://render.githubusercontent.com/render/math?math=y = \frac{0.3\cdot x_2^2 - 2\cdot x_2 - 4}{10\cdot e^{-\sqrt{x_1 + 20}}}">
-
-
+![formula](https://render.githubusercontent.com/render/math?math=y = \frac{0.3\cdot x_2^2 - 2\cdot x_2 - 4}{10\cdot e^{-\sqrt{x_1 + 20}}})
